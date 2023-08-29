@@ -1,6 +1,6 @@
 # [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
 
-[Personal Use](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
+[Personal Use v1](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
 
 ## Preview
 
