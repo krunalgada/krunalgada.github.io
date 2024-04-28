@@ -1,6 +1,6 @@
 {
   "vaultName": "MemoryDump",
-  "lastExport": 1714304741842,
+  "lastExport": 1714323498348,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -8,11 +8,14 @@
   "files": [
     "BigData/Spark and Hadoop.md",
     "Cheatsheets/Azure Synapse Dedicated SQL Pool Cheat sheet.md",
+    "Cloud Computing/Cloud Architecture.md",
     "Courses/Additional Data Architect Learning.md",
     "Courses/Data Architect course.md",
     "Courses/DP-203.md",
     "Courses/Linkedin Databricks.md",
+    "Courses/Linkedin Docker.md",
     "Courses/Linkedin GCP DE.md",
+    "Courses/Linkedin No-SQL.md",
     "Courses/Linkedin Python.md",
     "Courses/Linkedin Spark.md",
     "Courses/Linkedin SQL.md",
@@ -24,6 +27,7 @@
     "Databricks/Databricks Related Content.md",
     "Datamodeling/Build DWH using Kimballs Data modelling technique..md",
     "Datamodeling/Designing Datamodels for Firebase.md",
+    "Datamodeling/How to pick between different Data Modelling Technic.md",
     "Links/Interview Question.md",
     "Links/Random Learning Links.md",
     "Medium Article/Advance OOP In Python.md",
@@ -32,7 +36,7 @@
     "Projects/DE Projects List which are outside of Courses.md",
     "Python/List of Commonly used Python Libraries and Example.md",
     "Python/Notes Related to Python.md",
-    "Python/Python Cheat Sheet by Abdul Malik.md",
+    "Python/Python Cheat Sheets.md",
     "Python/Web Scrapping using Python.md",
     "Random/Links under Extra Curr Tab.md",
     "Spark/Apache Spark Learning.md",
@@ -45,6 +49,7 @@
     "Tags/Airbyte.md",
     "Tags/Azure Synapse.md",
     "Tags/Bigdata.md",
+    "Tags/CAP.md",
     "Tags/Capacity.md",
     "Tags/Change data Capture.md",
     "Tags/Cheat sheet.md",
@@ -70,17 +75,22 @@
     "Tags/Deltalake.md",
     "Tags/Design Documentation.md",
     "Tags/Devops.md",
+    "Tags/Dictionary.md",
+    "Tags/Docker.md",
     "Tags/Employees.md",
     "Tags/Encapsulation.md",
     "Tags/ETL.md",
     "Tags/Example.md",
     "Tags/Firebase.md",
     "Tags/GCP.md",
+    "Tags/Google Dataflow.md",
     "Tags/Hadoop.md",
     "Tags/Indexes.md",
     "Tags/Inheritance.md",
     "Tags/Interview.md",
+    "Tags/Kakfa.md",
     "Tags/Learning.md",
+    "Tags/MongoDB.md",
     "Tags/No-SQL database.md",
     "Tags/Objects.md",
     "Tags/OOPS.md",
@@ -95,7 +105,9 @@
     "Tags/Spark.md",
     "Tags/SQL.md",
     "Tags/SQL Server.md",
+    "Tags/Streaming.md",
     "Mindmap-Index.md",
+    "Random thoughts.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -157,182 +169,182 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1714304741842,
-      "sourceSize": 39758,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 44297,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1714304741842,
-      "sourceSize": 6580,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 7441,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1714304741842,
+      "modifiedTime": 1714323498348,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Mindmap-Index.md": {
-      "modifiedTime": 1714304741842,
-      "sourceSize": 25,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 24,
       "exportedPath": "mindmap-index.html",
       "dependencies": []
     },
     "BigData/Spark and Hadoop.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 183,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 321,
       "exportedPath": "bigdata/spark-and-hadoop.html",
       "dependencies": []
     },
@@ -355,8 +367,8 @@
       "dependencies": []
     },
     "Courses/Misc.md": {
-      "modifiedTime": 1714301312628,
-      "sourceSize": 1596,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 1720,
       "exportedPath": "courses/misc.html",
       "dependencies": []
     },
@@ -403,8 +415,8 @@
       "dependencies": []
     },
     "Links/Interview Question.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 631,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 930,
       "exportedPath": "links/interview-question.html",
       "dependencies": []
     },
@@ -433,8 +445,8 @@
       "dependencies": []
     },
     "Projects/DE Projects List which are outside of Courses.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 815,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 1078,
       "exportedPath": "projects/de-projects-list-which-are-outside-of-courses.html",
       "dependencies": []
     },
@@ -445,15 +457,9 @@
       "dependencies": []
     },
     "Python/Notes Related to Python.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 784,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 969,
       "exportedPath": "python/notes-related-to-python.html",
-      "dependencies": []
-    },
-    "Python/Python Cheat Sheet by Abdul Malik.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 182,
-      "exportedPath": "python/python-cheat-sheet-by-abdul-malik.html",
       "dependencies": []
     },
     "Python/Web Scrapping using Python.md": {
@@ -463,8 +469,8 @@
       "dependencies": []
     },
     "Random/Links under Extra Curr Tab.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 2513,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 2744,
       "exportedPath": "random/links-under-extra-curr-tab.html",
       "dependencies": []
     },
@@ -505,8 +511,8 @@
       "dependencies": []
     },
     "Tags/Bigdata.md": {
-      "modifiedTime": 1714296149112,
-      "sourceSize": 0,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 21,
       "exportedPath": "tags/bigdata.html",
       "dependencies": []
     },
@@ -829,14 +835,14 @@
       "dependencies": []
     },
     "Courses/Linkedin Spark.md": {
-      "modifiedTime": 1714301312628,
-      "sourceSize": 461,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 577,
       "exportedPath": "courses/linkedin-spark.html",
       "dependencies": []
     },
     "Courses/Linkedin SQL.md": {
-      "modifiedTime": 1714301312628,
-      "sourceSize": 616,
+      "modifiedTime": 1714323498348,
+      "sourceSize": 970,
       "exportedPath": "courses/linkedin-sql.html",
       "dependencies": []
     },
@@ -862,6 +868,84 @@
       "modifiedTime": 1714301312628,
       "sourceSize": 0,
       "exportedPath": "tags/gcp.html",
+      "dependencies": []
+    },
+    "Cloud Computing/Cloud Architecture.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 903,
+      "exportedPath": "cloud-computing/cloud-architecture.html",
+      "dependencies": []
+    },
+    "Courses/Linkedin Docker.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 116,
+      "exportedPath": "courses/linkedin-docker.html",
+      "dependencies": []
+    },
+    "Courses/Linkedin No-SQL.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 343,
+      "exportedPath": "courses/linkedin-no-sql.html",
+      "dependencies": []
+    },
+    "Datamodeling/How to pick between different Data Modelling Technic.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 191,
+      "exportedPath": "datamodeling/how-to-pick-between-different-data-modelling-technic.html",
+      "dependencies": []
+    },
+    "Python/Python Cheat Sheets.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 413,
+      "exportedPath": "python/python-cheat-sheets.html",
+      "dependencies": []
+    },
+    "Tags/CAP.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 2294,
+      "exportedPath": "tags/cap.html",
+      "dependencies": []
+    },
+    "Tags/Dictionary.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 0,
+      "exportedPath": "tags/dictionary.html",
+      "dependencies": []
+    },
+    "Tags/Docker.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 32,
+      "exportedPath": "tags/docker.html",
+      "dependencies": []
+    },
+    "Tags/Google Dataflow.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 23,
+      "exportedPath": "tags/google-dataflow.html",
+      "dependencies": []
+    },
+    "Tags/Kakfa.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 35,
+      "exportedPath": "tags/kakfa.html",
+      "dependencies": []
+    },
+    "Tags/MongoDB.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 0,
+      "exportedPath": "tags/mongodb.html",
+      "dependencies": []
+    },
+    "Tags/Streaming.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 0,
+      "exportedPath": "tags/streaming.html",
+      "dependencies": []
+    },
+    "Random thoughts.md": {
+      "modifiedTime": 1714323498348,
+      "sourceSize": 553,
+      "exportedPath": "random-thoughts.html",
       "dependencies": []
     }
   }
