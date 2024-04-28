@@ -1,6 +1,6 @@
 {
   "vaultName": "MemoryDump",
-  "lastExport": 1714288557229,
+  "lastExport": 1714296149112,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -86,6 +86,7 @@
     "Tags/Spark.md",
     "Tags/SQL.md",
     "Tags/SQL Server.md",
+    "Mindmap-Index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -147,649 +148,655 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1714288557229,
-      "sourceSize": 36564,
+      "modifiedTime": 1714296149112,
+      "sourceSize": 36882,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1714288557229,
-      "sourceSize": 5913,
+      "modifiedTime": 1714296149112,
+      "sourceSize": 6237,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
+    "Mindmap-Index.md": {
+      "modifiedTime": 1714295690299,
+      "sourceSize": 471,
+      "exportedPath": "mindmap-index.html",
+      "dependencies": []
+    },
     "BigData/Spark and Hadoop.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 183,
       "exportedPath": "bigdata/spark-and-hadoop.html",
       "dependencies": []
     },
     "Cheatsheets/Azure Synapse Dedicated SQL Pool Cheat sheet.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 470,
       "exportedPath": "cheatsheets/azure-synapse-dedicated-sql-pool-cheat-sheet.html",
       "dependencies": []
     },
     "Courses/Additional Data Architect Learning.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 139,
       "exportedPath": "courses/additional-data-architect-learning.html",
       "dependencies": []
     },
     "Courses/Data Architect course.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 4464,
       "exportedPath": "courses/data-architect-course.html",
       "dependencies": []
     },
     "Courses/Misc.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 261,
       "exportedPath": "courses/misc.html",
       "dependencies": []
     },
     "Courses/Python for DE by Darshil.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 489,
       "exportedPath": "courses/python-for-de-by-darshil.html",
       "dependencies": []
     },
     "Courses/Python Free Youtube Tutorial by Sourabh.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 206,
       "exportedPath": "courses/python-free-youtube-tutorial-by-sourabh.html",
       "dependencies": []
     },
     "Courses/Untitled.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "courses/untitled.html",
       "dependencies": []
     },
     "Data Engineering/Start of DE learning.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 605,
       "exportedPath": "data-engineering/start-of-de-learning.html",
       "dependencies": []
     },
     "Databases/Change Data Capture Learning.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 383,
       "exportedPath": "databases/change-data-capture-learning.html",
       "dependencies": []
     },
     "Databricks/Databricks Related Content.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 365,
       "exportedPath": "databricks/databricks-related-content.html",
       "dependencies": []
     },
     "Datamodeling/Build DWH using Kimballs Data modelling technique..md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 376,
       "exportedPath": "datamodeling/build-dwh-using-kimballs-data-modelling-technique..html",
       "dependencies": []
     },
     "Datamodeling/Designing Datamodels for Firebase.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 235,
       "exportedPath": "datamodeling/designing-datamodels-for-firebase.html",
       "dependencies": []
     },
     "Links/Interview Question.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 631,
       "exportedPath": "links/interview-question.html",
       "dependencies": []
     },
     "Links/Random Learning Links.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 486,
       "exportedPath": "links/random-learning-links.html",
       "dependencies": []
     },
     "Medium Article/Advance OOP In Python.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 419,
       "exportedPath": "medium-article/advance-oop-in-python.html",
       "dependencies": []
     },
     "Medium Article/Basics of Deltalake Architecture.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 268,
       "exportedPath": "medium-article/basics-of-deltalake-architecture.html",
       "dependencies": []
     },
     "Medium Article/Design Documentation for Dataplatforms.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 814,
       "exportedPath": "medium-article/design-documentation-for-dataplatforms.html",
       "dependencies": []
     },
     "Projects/DE Projects List which are outside of Courses.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 815,
       "exportedPath": "projects/de-projects-list-which-are-outside-of-courses.html",
       "dependencies": []
     },
     "Python/List of Commonly used Python Libraries and Example.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 26,
       "exportedPath": "python/list-of-commonly-used-python-libraries-and-example.html",
       "dependencies": []
     },
     "Python/Notes Related to Python.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 784,
       "exportedPath": "python/notes-related-to-python.html",
       "dependencies": []
     },
     "Python/Python Cheat Sheet by Abdul Malik.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 182,
       "exportedPath": "python/python-cheat-sheet-by-abdul-malik.html",
       "dependencies": []
     },
     "Python/Web Scrapping using Python.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 161,
       "exportedPath": "python/web-scrapping-using-python.html",
       "dependencies": []
     },
     "Random/Links under Extra Curr Tab.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 2513,
       "exportedPath": "random/links-under-extra-curr-tab.html",
       "dependencies": []
     },
     "Spark/Apache Spark Learning.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 383,
       "exportedPath": "spark/apache-spark-learning.html",
       "dependencies": []
     },
     "SQL/About SQL Indexes.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 271,
       "exportedPath": "sql/about-sql-indexes.html",
       "dependencies": []
     },
     "Tags/ADF.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 30,
       "exportedPath": "tags/adf.html",
       "dependencies": []
     },
     "Tags/ADLS.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 16,
       "exportedPath": "tags/adls.html",
       "dependencies": []
     },
     "Tags/Airbyte.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 13,
       "exportedPath": "tags/airbyte.html",
       "dependencies": []
     },
     "Tags/Azure Synapse.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/azure-synapse.html",
       "dependencies": []
     },
     "Tags/Bigdata.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/bigdata.html",
       "dependencies": []
     },
     "Tags/Capacity.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/capacity.html",
       "dependencies": []
     },
     "Tags/Change data Capture.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/change-data-capture.html",
       "dependencies": []
     },
     "Tags/Cheat sheet.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 92,
       "exportedPath": "tags/cheat-sheet.html",
       "dependencies": []
     },
     "Tags/Classes.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/classes.html",
       "dependencies": []
     },
     "Tags/Cost Optimization.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/cost-optimization.html",
       "dependencies": []
     },
     "Tags/Courses.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/courses.html",
       "dependencies": []
     },
     "Tags/Data Architect.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-architect.html",
       "dependencies": []
     },
     "Tags/Data Consumption.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-consumption.html",
       "dependencies": []
     },
     "Tags/Data Engineering.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-engineering.html",
       "dependencies": []
     },
     "Tags/Data Governance.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-governance.html",
       "dependencies": []
     },
     "Tags/Data Ingestion.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-ingestion.html",
       "dependencies": []
     },
     "Tags/Data Operation.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-operation.html",
       "dependencies": []
     },
     "Tags/Data Processing.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-processing.html",
       "dependencies": []
     },
     "Tags/Data Security.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-security.html",
       "dependencies": []
     },
     "Tags/Data Sources.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-sources.html",
       "dependencies": []
     },
     "Tags/Data Storage.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/data-storage.html",
       "dependencies": []
     },
     "Tags/Databricks.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/databricks.html",
       "dependencies": []
     },
     "Tags/Datamodelling.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/datamodelling.html",
       "dependencies": []
     },
     "Tags/Datawarehouse.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/datawarehouse.html",
       "dependencies": []
     },
     "Tags/dbt.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/dbt.html",
       "dependencies": []
     },
     "Tags/DE Projects.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/de-projects.html",
       "dependencies": []
     },
     "Tags/Debezium.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/debezium.html",
       "dependencies": []
     },
     "Tags/Deltalake.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/deltalake.html",
       "dependencies": []
     },
     "Tags/Design Documentation.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/design-documentation.html",
       "dependencies": []
     },
     "Tags/Devops.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/devops.html",
       "dependencies": []
     },
     "Tags/Employees.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/employees.html",
       "dependencies": []
     },
     "Tags/Encapsulation.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/encapsulation.html",
       "dependencies": []
     },
     "Tags/ETL.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/etl.html",
       "dependencies": []
     },
     "Tags/Example.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/example.html",
       "dependencies": []
     },
     "Tags/Firebase.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/firebase.html",
       "dependencies": []
     },
     "Tags/Hadoop.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/hadoop.html",
       "dependencies": []
     },
     "Tags/Indexes.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 7,
       "exportedPath": "tags/indexes.html",
       "dependencies": []
     },
     "Tags/Inheritance.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/inheritance.html",
       "dependencies": []
     },
     "Tags/Interview.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/interview.html",
       "dependencies": []
     },
     "Tags/Learning.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/learning.html",
       "dependencies": []
     },
     "Tags/No-SQL database.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/no-sql-database.html",
       "dependencies": []
     },
     "Tags/Objects.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/objects.html",
       "dependencies": []
     },
     "Tags/OOPS.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/oops.html",
       "dependencies": []
     },
     "Tags/Performance.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/performance.html",
       "dependencies": []
     },
     "Tags/Person.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/person.html",
       "dependencies": []
     },
     "Tags/Postgress.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 9,
       "exportedPath": "tags/postgress.html",
       "dependencies": []
     },
     "Tags/Power BI.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/power-bi.html",
       "dependencies": []
     },
     "Tags/Python.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/python.html",
       "dependencies": []
     },
     "Tags/Requirements.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/requirements.html",
       "dependencies": []
     },
     "Tags/S3.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 16,
       "exportedPath": "tags/s3.html",
       "dependencies": []
     },
     "Tags/Snowflake.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 20,
       "exportedPath": "tags/snowflake.html",
       "dependencies": []
     },
     "Tags/Spark.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/spark.html",
       "dependencies": []
     },
     "Tags/SQL.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 0,
       "exportedPath": "tags/sql.html",
       "dependencies": []
     },
     "Tags/SQL Server.md": {
-      "modifiedTime": 1714288557229,
+      "modifiedTime": 1714296149112,
       "sourceSize": 7,
       "exportedPath": "tags/sql-server.html",
       "dependencies": []
