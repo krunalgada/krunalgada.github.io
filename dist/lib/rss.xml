@@ -1,4 +1,247 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MemoryDump]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://krunalgada.github.io/dist/</link><image><url>https://krunalgada.github.io/dist/lib/media/favicon.png</url><title>MemoryDump</title><link>https://krunalgada.github.io/dist/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 28 Apr 2024 18:02:37 GMT</lastBuildDate><atom:link href="https://krunalgada.github.io/dist/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 28 Apr 2024 18:02:36 GMT</pubDate><copyright><![CDATA[Krunal]]></copyright><ttl>60</ttl><dc:creator>Krunal</dc:creator><item><title><![CDATA[DP-203]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MemoryDump]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://krunalgada.github.io/dist/</link><image><url>https://krunalgada.github.io/dist/lib/media/favicon.png</url><title>MemoryDump</title><link>https://krunalgada.github.io/dist/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 05:50:59 GMT</lastBuildDate><atom:link href="https://krunalgada.github.io/dist/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 05:50:57 GMT</pubDate><copyright><![CDATA[Krunal]]></copyright><ttl>60</ttl><dc:creator>Krunal</dc:creator><item><title><![CDATA[Data Analytics for Finance A SelfStudy Guide]]></title><description><![CDATA[ 
+ <br>(Course Prepared using Chat GPT for one of the Job applied recently)<br>
+(Below is hallucinating result from ChatGPT, most of videos does not exists, once i start reading will add appropriate content and alternatives )<br>
+<br>Module 1: Introduction to Finance Basics
+
+<br>Understanding Financial Statements
+
+<br>YouTube Video: "Understanding Financial Statements" by Khan Academy
+<br>LinkedIn Learning Course: "Finance for Non-Finance Professionals" by Jim Stice
+
+
+<br>Key Financial Metrics and Ratios
+
+<br>YouTube Video: "Financial Ratios Explained" by MBAbullshit.com
+<br>LinkedIn Learning Course: "Financial Analysis: Analyzing the Bottom Line with Excel" by Michael McDonald
+
+
+<br>Basics of Accounting Principles
+
+<br>YouTube Video: "Introduction to Accounting Basics" by Accounting Stuff
+<br>LinkedIn Learning Course: "Introduction to Financial Accounting" by Jennifer Thomas
+
+
+
+
+<br>Module 2: Introduction to Data Analytics
+
+<br>Fundamentals of Data Analytics
+
+<br>YouTube Video: "Data Analytics for Beginners" by Simplilearn
+<br>LinkedIn Learning Course: "[Data Analytics Fundamentals](<a data-tooltip-position="top" aria-label="https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=130851588" rel="noopener" class="external-link" href="https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=130851588" target="_blank">Beginning your data analysis journey | LinkedIn Learning</a>)" 
+
+
+<br>Data Types and Structures
+
+<br>YouTube Video: "Understanding Data Types and Structures" by Codecademy
+<br>LinkedIn Learning Course: "Learning Data Modeling" by Adam Wilbert
+
+
+<br>Data Collection and Cleaning Techniques
+
+<br>YouTube Video: "Data Cleaning Techniques" by Data School
+<br>LinkedIn Learning Course: "Data Wrangling in Python" by Miki Tebeka
+
+
+<br>Introduction to SQL for Data Analytics
+
+<br>YouTube Video: "SQL for Beginners" by Programming with Mosh
+<br>LinkedIn Learning Course: "SQL Essential Training" by Bill Weinman
+
+
+
+
+<br>Module 3: Advanced SQL for Finance Analytics
+
+<br>SQL Joins and Aggregations
+
+<br>YouTube Video: "SQL Joins Explained" by Caleb Curry
+<br>LinkedIn Learning Course: "Advanced SQL for Data Scientists" by Dan Sullivan
+
+
+<br>Window Functions for Financial Analysis
+
+<br>YouTube Video: "Window Functions in SQL" by Mode Analytics
+<br>LinkedIn Learning Course: "Mastering Advanced SQL Queries" by Ben Sullins
+
+
+<br>Working with Time-Series Data
+
+<br>YouTube Video: "Working with Time-Series Data in SQL" by DataCamp
+<br>LinkedIn Learning Course: "Time Series Analysis and Forecasting with SQL" by Dan Sullivan
+
+
+<br>Advanced SQL Queries for Financial Reporting
+
+<br>YouTube Video: "Advanced SQL Queries for Financial Analysis" by Learn Data Science
+
+
+
+
+<br>Module 4: Introduction to Azure SQL
+
+<br>Overview of Azure SQL Services
+
+<br>YouTube Video: "Introduction to Azure SQL Database" by Microsoft Azure
+<br>LinkedIn Learning Course: "Azure SQL Database for Developers" by Adam Wilbert
+
+
+<br>Setting up Azure SQL Database
+
+<br>YouTube Video: "Azure SQL Database Tutorial" by TechSnips
+<br>LinkedIn Learning Course: "Azure SQL Essential Training" by Adam Wilbert
+
+
+<br>Data Storage and Management in Azure SQL
+
+<br>YouTube Video: "Azure SQL Storage and Management" by LearnItTraining
+<br>LinkedIn Learning Course: "Managing Azure SQL Databases" by Adam Wilbert
+
+
+<br>Security and Compliance in Azure SQL
+
+<br>YouTube Video: "Azure SQL Security Best Practices" by AzureCloudAcademy
+<br>LinkedIn Learning Course: "Azure SQL Security and Compliance" by Manesh Mohan
+
+
+
+
+<br>Module 5: Integrating Finance Data with Azure SQL
+
+<br>Extracting Data from Financial Systems
+
+<br>YouTube Video: "Extracting Data from Financial Systems using Azure Data Factory" by Microsoft Azure
+<br>LinkedIn Learning Course: "Data Integration with Azure" by Mandy Chessell
+
+
+<br>Loading Data into Azure SQL Database
+
+<br>YouTube Video: "Loading Data into Azure SQL Database" by TechSnips
+<br>LinkedIn Learning Course: "Implementing ETL with Azure Data Factory" by Sanjay Soni
+
+
+<br>Transforming Data for Analysis
+
+<br>YouTube Video: "Transforming Data for Analysis with Azure SQL" by Microsoft Azure
+<br>LinkedIn Learning Course: "Data Transformation with Azure Data Factory" by Lynn Langit
+
+
+<br>Automating ETL Processes with Azure Data Factory
+
+<br>YouTube Video: "Automating ETL Processes with Azure Data Factory" by SQLShack
+<br>LinkedIn Learning Course: "Azure Data Factory Essential Training" by Sanjay Soni
+
+
+
+
+<br>Module 6: Advanced Analytics with Azure SQL
+
+<br>Performing Advanced Analytics using Azure SQL
+
+<br>YouTube Video: "Advanced Analytics with Azure SQL" by Microsoft Azure
+<br>LinkedIn Learning Course: "Advanced Analytics with Azure Machine Learning" by Sahil Malik
+
+
+<br>Leveraging Machine Learning Services in Azure SQL
+
+<br>YouTube Video: "Machine Learning Services in Azure SQL" by Microsoft Azure
+<br>LinkedIn Learning Course: "Getting Started with Azure Machine Learning" by Sahil Malik
+
+
+<br>Implementing Predictive Analytics for Financial Forecasting
+
+<br>YouTube Video: "Predictive Analytics with Azure SQL" by CloudAcademy
+<br>LinkedIn Learning Course: "Predictive Analytics with Azure Machine Learning" by Chris Randall
+
+
+<br>Creating Interactive Dashboards with Power BI
+
+<br>YouTube Video: "Creating Interactive Dashboards with Power BI" by Power BI
+<br>LinkedIn Learning Course: "Power BI Essential Training" by Gini von Courter
+
+
+
+
+<br>Module 7: Case Studies and Projects
+
+<br>Real-world Finance Analytics Projects
+
+<br>YouTube Video: "Real-world Finance Analytics Projects" by DataScienceDojo
+<br>LinkedIn Learning Course: "Data Science Projects: Finance" by Kumaran Ponnambalam
+
+
+<br>Hands-on Exercises using Azure SQL
+
+<br>YouTube Video: "Hands-on Exercises using Azure SQL" by LearnItTraining
+<br>LinkedIn Learning Course: "Hands-on Azure SQL Database for Beginners" by Adam Wilbert
+
+
+<br>Building Financial Dashboards and Reports
+
+<br>YouTube Video: "Building Financial Dashboards and Reports with Power BI" by Power BI
+<br>LinkedIn Learning Course: "Power BI: Data Visualization for Finance" by Matt Allington
+
+
+<br>Presenting Insights and Recommendations
+
+<br>YouTube Video: "Presenting Insights and Recommendations from Finance Analytics" by DataCamp
+<br>LinkedIn Learning Course: "Data Presentation: Insights through Storytelling" by Doug Rose
+
+
+
+
+<br><a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="SQL" href="https://krunalgada.github.io/dist/tags/sql.html" class="internal-link" target="_self" rel="noopener">SQL</a>]]></description><link>https://krunalgada.github.io/dist/courses/data-analytics-for-finance-a-selfstudy-guide.html</link><guid isPermaLink="false">Courses/Data Analytics for Finance A SelfStudy Guide.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 05:48:54 GMT</pubDate></item><item><title><![CDATA[DE Projects List which are outside of Courses]]></title><description><![CDATA[<a class="tag" href="https://krunalgada.github.io/dist/?query=tag:DEProject" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#DEProject</a> 
+ <br><a href="https://krunalgada.github.io/dist?query=tag:DEProject" class="tag" target="_blank" rel="noopener">#DEProject</a><br><br><a data-tooltip-position="top" aria-label="https://ask-data.medium.com/data-engineering-building-an-etl-pipeline-for-nypd-arrest-data-6ead5e715bc1" rel="noopener" class="external-link" href="https://ask-data.medium.com/data-engineering-building-an-etl-pipeline-for-nypd-arrest-data-6ead5e715bc1" target="_blank">Data Engineering — Building an ETL Pipeline for NYPD Arrest Data | by Sarthak Girdhar | Medium</a><br>This projects works on following tech stack<br>
+<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> as Data scraping and Loading tool<br>
+<a data-href="Power BI" href="https://krunalgada.github.io/dist/tags/power-bi.html" class="internal-link" target="_self" rel="noopener">Power BI</a> AS Visualization Tool<br>
+<a data-href="Snowflake" href="https://krunalgada.github.io/dist/tags/snowflake.html" class="internal-link" target="_self" rel="noopener">Snowflake</a> AS Datawarehouse Tool<br>
+<a data-href="Example" href="https://krunalgada.github.io/dist/tags/example.html" class="internal-link" target="_self" rel="noopener">Example</a> contains NYPD Arrest Data.<br><br><a data-tooltip-position="top" aria-label="https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/" rel="noopener" class="external-link" href="https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/" target="_blank">Change Data Capture, with Debezium · Start Data Engineering</a><br>This Projects works on following<br>
+<a data-href="Change data Capture" href="https://krunalgada.github.io/dist/tags/change-data-capture.html" class="internal-link" target="_self" rel="noopener">Change data Capture</a><br>
+<a data-href="Postgress" href="https://krunalgada.github.io/dist/tags/postgress.html" class="internal-link" target="_self" rel="noopener">Postgress</a><br>
+AWS <a data-href="S3" href="https://krunalgada.github.io/dist/tags/s3.html" class="internal-link" target="_self" rel="noopener">S3</a> Bucket as <a data-href="Data Storage" href="https://krunalgada.github.io/dist/tags/data-storage.html" class="internal-link" target="_self" rel="noopener">Data Storage</a><br>
+<a data-href="Debezium" href="https://krunalgada.github.io/dist/tags/debezium.html" class="internal-link" target="_self" rel="noopener">Debezium</a> AS <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a> tool<br><br><a data-tooltip-position="top" aria-label="https://medium.com/@lukas.forst/dashboarding-possibilities-using-python-or-other-solutions-e806f939d5d7" rel="noopener" class="external-link" href="https://medium.com/@lukas.forst/dashboarding-possibilities-using-python-or-other-solutions-e806f939d5d7" target="_blank">Portfolio project using python &amp; mongoDB final part | by Lukas | Medium</a><br>This Project works on following<br>
+<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a><br>
+<a data-href="MongoDB" href="https://krunalgada.github.io/dist/tags/mongodb.html" class="internal-link" target="_self" rel="noopener">MongoDB</a><br>
+<br><a data-tooltip-position="top" aria-label="https://medium.com/snowflake/how-to-etl-from-web-apis-into-an-open-data-lakehouse-with-python-iceberg-and-snowflake-5cc1e9b08d8f" rel="noopener" class="external-link" href="https://medium.com/snowflake/how-to-etl-from-web-apis-into-an-open-data-lakehouse-with-python-iceberg-and-snowflake-5cc1e9b08d8f" target="_blank">How to ETL from web APIs into an open data lakehouse with Python, Iceberg, and Snowflake | by Scott Teal | Snowflake | Apr, 2024 | Medium</a><br>This Project works on following<br>
+<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> and <a data-href="Snowpark" href="https://krunalgada.github.io/dist/tags/snowpark.html" class="internal-link" target="_self" rel="noopener">Snowpark</a> as <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a><br>
+<a data-href="Web API" href="https://krunalgada.github.io/dist/tags/web-api.html" class="internal-link" target="_self" rel="noopener">Web API</a> AS <a data-href="Data Sources" href="https://krunalgada.github.io/dist/tags/data-sources.html" class="internal-link" target="_self" rel="noopener">Data Sources</a><br>
+<a data-href="Snowflake" href="https://krunalgada.github.io/dist/tags/snowflake.html" class="internal-link" target="_self" rel="noopener">Snowflake</a> AS <a data-href="Datawarehouse" href="https://krunalgada.github.io/dist/tags/datawarehouse.html" class="internal-link" target="_self" rel="noopener">Datawarehouse</a> over <a data-href="Iceberg" href="https://krunalgada.github.io/dist/tags/iceberg.html" class="internal-link" target="_self" rel="noopener">Iceberg</a> Tables on <a data-href="Azure" href="https://krunalgada.github.io/dist/tags/azure.html" class="internal-link" target="_self" rel="noopener">Azure</a> blob as <a data-href="Data Storage" href="https://krunalgada.github.io/dist/tags/data-storage.html" class="internal-link" target="_self" rel="noopener">Data Storage</a><br>
+<br>
+<br>
+<br>
+<br><a data-href="DE Projects" href="https://krunalgada.github.io/dist/tags/de-projects.html" class="internal-link" target="_self" rel="noopener">DE Projects</a>]]></description><link>https://krunalgada.github.io/dist/projects/de-projects-list-which-are-outside-of-courses.html</link><guid isPermaLink="false">Projects/DE Projects List which are outside of Courses.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Mon, 29 Apr 2024 04:06:31 GMT</pubDate></item><item><title><![CDATA[Azure]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/azure.html</link><guid isPermaLink="false">Tags/Azure.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Mon, 29 Apr 2024 04:06:10 GMT</pubDate></item><item><title><![CDATA[Iceberg]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/iceberg.html</link><guid isPermaLink="false">Tags/Iceberg.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Mon, 29 Apr 2024 04:04:44 GMT</pubDate></item><item><title><![CDATA[Random thoughts]]></title><description><![CDATA[ 
+ <br>For Cloud Consider<br>
+Monitoring<br>
+Security<br>
+Costing<br>
+Latency<br>
+High Availability<br>
+Storage<br>
+Storage Retention<br>
+Different Offering and ROI<br>
+Debugging<br>
+Parallel processing and limiation of each instances.<br>
+Number of instances parallel run<br>
+max run<br>
+activity runs<br>
+etc.<br>
+Master Data Management<br>
+Data Lineage<br>
+Data sharing<br>
+Analytics<br>
+Error Handling<br>
+Template to do initial setups<br>
+connection between different services<br>
+Best Practices at individual Service level and Architecture Level.<br>
+GDPR<br>
+<br>Streaming<br>
+PubSub<br><a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Data Architect" href="https://krunalgada.github.io/dist/tags/data-architect.html" class="internal-link" target="_self" rel="noopener">Data Architect</a> ]]></description><link>https://krunalgada.github.io/dist/tags/random-thoughts.html</link><guid isPermaLink="false">Tags/Random thoughts.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 16:58:57 GMT</pubDate></item><item><title><![CDATA[Snowpark]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/snowpark.html</link><guid isPermaLink="false">Tags/Snowpark.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Mon, 29 Apr 2024 04:04:38 GMT</pubDate></item><item><title><![CDATA[Web API]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/web-api.html</link><guid isPermaLink="false">Tags/Web API.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Mon, 29 Apr 2024 04:04:41 GMT</pubDate></item><item><title><![CDATA[notebook_index_template]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://krunalgada.github.io/dist/templates/notebook_index_template.html</link><guid isPermaLink="false">Templates/notebook_index_template.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 05:24:45 GMT</pubDate></item><item><title><![CDATA[Mindmap-Index]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://krunalgada.github.io/dist/mindmap-index.html</link><guid isPermaLink="false">Mindmap-Index.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 05:25:00 GMT</pubDate></item><item><title><![CDATA[DP-203]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.udemy.com/course/dp200exam/learn/lecture/21367828#overview" rel="noopener" class="external-link" href="https://www.udemy.com/course/dp200exam/learn/lecture/21367828#overview" target="_blank">Course: DP-203: Data Engineering on Microsoft Azure - 2022 | Udemy</a><br>
 <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Certification" href="https://krunalgada.github.io/dist/tags/certification.html" class="internal-link" target="_self" rel="noopener">Certification</a><br>
 <br><a data-tooltip-position="top" aria-label="https://www.linkedin.com/learning/paths/prepare-for-the-azure-data-engineer-associate-dp-203-certification?u=130851588" rel="noopener" class="external-link" href="https://www.linkedin.com/learning/paths/prepare-for-the-azure-data-engineer-associate-dp-203-certification?u=130851588" target="_blank">Prepare for the Azure Data Engineer Associate (DP-203) Certification (linkedin.com)</a><br>
@@ -79,33 +322,7 @@ Basic <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.
  <br><a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a>]]></description><link>https://krunalgada.github.io/dist/tags/airflow.html</link><guid isPermaLink="false">Tags/Airflow.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 10:32:55 GMT</pubDate></item><item><title><![CDATA[Certification]]></title><description><![CDATA[ 
  ]]></description><link>https://krunalgada.github.io/dist/tags/certification.html</link><guid isPermaLink="false">Tags/Certification.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 17:43:13 GMT</pubDate></item><item><title><![CDATA[Powershell]]></title><description><![CDATA[ 
  ]]></description><link>https://krunalgada.github.io/dist/tags/powershell.html</link><guid isPermaLink="false">Tags/Powershell.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 17:48:04 GMT</pubDate></item><item><title><![CDATA[Scala]]></title><description><![CDATA[ 
- ]]></description><link>https://krunalgada.github.io/dist/tags/scala.html</link><guid isPermaLink="false">Tags/Scala.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 17:49:17 GMT</pubDate></item><item><title><![CDATA[Random thoughts]]></title><description><![CDATA[ 
- <br>For Cloud Consider<br>
-Monitoring<br>
-Security<br>
-Costing<br>
-Latency<br>
-High Availability<br>
-Storage<br>
-Storage Retention<br>
-Different Offering and ROI<br>
-Debugging<br>
-Parallel processing and limiation of each instances.<br>
-Number of instances parallel run<br>
-max run<br>
-activity runs<br>
-etc.<br>
-Master Data Management<br>
-Data Lineage<br>
-Data sharing<br>
-Analytics<br>
-Error Handling<br>
-Template to do initial setups<br>
-connection between different services<br>
-Best Practices at individual Service level and Architecture Level.<br>
-GDPR<br>
-<br>Streaming<br>
-PubSub<br><a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Data Architect" href="https://krunalgada.github.io/dist/tags/data-architect.html" class="internal-link" target="_self" rel="noopener">Data Architect</a> ]]></description><link>https://krunalgada.github.io/dist/random-thoughts.html</link><guid isPermaLink="false">Random thoughts.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 16:58:57 GMT</pubDate></item><item><title><![CDATA[Spark and Hadoop]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/scala.html</link><guid isPermaLink="false">Tags/Scala.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 17:49:17 GMT</pubDate></item><item><title><![CDATA[Spark and Hadoop]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.geeksforgeeks.org/what-is-schema-on-read-and-schema-on-write-in-hadoop/" rel="noopener" class="external-link" href="https://www.geeksforgeeks.org/what-is-schema-on-read-and-schema-on-write-in-hadoop/" target="_blank">What is Schema On Read and Schema On Write in Hadoop? - GeeksforGeeks</a><br>
 <a data-href="Hadoop" href="https://krunalgada.github.io/dist/tags/hadoop.html" class="internal-link" target="_self" rel="noopener">Hadoop</a> <a data-href="Bigdata" href="https://krunalgada.github.io/dist/tags/bigdata.html" class="internal-link" target="_self" rel="noopener">Bigdata</a><br><a data-tooltip-position="top" aria-label="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data?u=130851588" rel="noopener" class="external-link" href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data?u=130851588" target="_blank">Datawarehousing to BigData</a><br>
 <a data-href="Bigdata" href="https://krunalgada.github.io/dist/tags/bigdata.html" class="internal-link" target="_self" rel="noopener">Bigdata</a><br>
@@ -133,19 +350,7 @@ PubSub<br><a data-href="Data Engineering" href="https://krunalgada.github.io/dis
 <a data-href="ADF" href="https://krunalgada.github.io/dist/tags/adf.html" class="internal-link" target="_self" rel="noopener">ADF</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a><br><a data-tooltip-position="top" aria-label="https://hackr.io/blog/apache-spark-interview-questions" rel="noopener" class="external-link" href="https://hackr.io/blog/apache-spark-interview-questions" target="_blank">50 Best Apache Spark Interview Questions and Answers in 2024 (hackr.io)</a><br><a data-tooltip-position="top" aria-label="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" rel="noopener" class="external-link" href="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" target="_blank">Spark Questions — Interview Series | by Amit Singh Rathore | Dev Genius</a><br><a data-tooltip-position="top" aria-label="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" rel="noopener" class="external-link" href="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" target="_blank">grouping - Spark difference between reduceByKey vs. groupByKey vs. aggregateByKey vs. combineByKey - Stack Overflow</a><br>
 <a data-href="Spark" href="https://krunalgada.github.io/dist/tags/spark.html" class="internal-link" target="_self" rel="noopener">Spark</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Bigdata" href="https://krunalgada.github.io/dist/tags/bigdata.html" class="internal-link" target="_self" rel="noopener">Bigdata</a><br><a data-tooltip-position="top" aria-label="https://github.com/mmicu/python-for-coding-interviews" rel="noopener" class="external-link" href="https://github.com/mmicu/python-for-coding-interviews" target="_blank">mmicu/python-for-coding-interviews: Python for Coding Interviews (github.com)</a><br>
 <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a><br>
-]]></description><link>https://krunalgada.github.io/dist/links/interview-question.html</link><guid isPermaLink="false">Links/Interview Question.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:30:20 GMT</pubDate></item><item><title><![CDATA[DE Projects List which are outside of Courses]]></title><description><![CDATA[<a class="tag" href="https://krunalgada.github.io/dist/?query=tag:DEProject" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#DEProject</a> 
- <br><a href="https://krunalgada.github.io/dist?query=tag:DEProject" class="tag" target="_blank" rel="noopener">#DEProject</a><br><br><a data-tooltip-position="top" aria-label="https://ask-data.medium.com/data-engineering-building-an-etl-pipeline-for-nypd-arrest-data-6ead5e715bc1" rel="noopener" class="external-link" href="https://ask-data.medium.com/data-engineering-building-an-etl-pipeline-for-nypd-arrest-data-6ead5e715bc1" target="_blank">Data Engineering — Building an ETL Pipeline for NYPD Arrest Data | by Sarthak Girdhar | Medium</a><br>This projects works on following tech stack<br>
-<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> as Data scraping and Loading tool<br>
-<a data-href="Power BI" href="https://krunalgada.github.io/dist/tags/power-bi.html" class="internal-link" target="_self" rel="noopener">Power BI</a> AS Visualization Tool<br>
-<a data-href="Snowflake" href="https://krunalgada.github.io/dist/tags/snowflake.html" class="internal-link" target="_self" rel="noopener">Snowflake</a> AS Datawarehouse Tool<br>
-<a data-href="Example" href="https://krunalgada.github.io/dist/tags/example.html" class="internal-link" target="_self" rel="noopener">Example</a> contains NYPD Arrest Data.<br><br><a data-tooltip-position="top" aria-label="https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/" rel="noopener" class="external-link" href="https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/" target="_blank">Change Data Capture, with Debezium · Start Data Engineering</a><br>This Projects works on following<br>
-<a data-href="Change data Capture" href="https://krunalgada.github.io/dist/tags/change-data-capture.html" class="internal-link" target="_self" rel="noopener">Change data Capture</a><br>
-<a data-href="Postgress" href="https://krunalgada.github.io/dist/tags/postgress.html" class="internal-link" target="_self" rel="noopener">Postgress</a><br>
-AWS <a data-href="S3" href="https://krunalgada.github.io/dist/tags/s3.html" class="internal-link" target="_self" rel="noopener">S3</a> Bucket as <a data-href="Data Storage" href="https://krunalgada.github.io/dist/tags/data-storage.html" class="internal-link" target="_self" rel="noopener">Data Storage</a><br>
-<a data-href="Debezium" href="https://krunalgada.github.io/dist/tags/debezium.html" class="internal-link" target="_self" rel="noopener">Debezium</a> AS <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a> tool<br><br><a data-tooltip-position="top" aria-label="https://medium.com/@lukas.forst/dashboarding-possibilities-using-python-or-other-solutions-e806f939d5d7" rel="noopener" class="external-link" href="https://medium.com/@lukas.forst/dashboarding-possibilities-using-python-or-other-solutions-e806f939d5d7" target="_blank">Portfolio project using python &amp; mongoDB final part | by Lukas | Medium</a><br>This Project works on following<br>
-<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a><br>
-<a data-href="MongoDB" href="https://krunalgada.github.io/dist/tags/mongodb.html" class="internal-link" target="_self" rel="noopener">MongoDB</a><br>
-<br><a data-href="DE Projects" href="https://krunalgada.github.io/dist/tags/de-projects.html" class="internal-link" target="_self" rel="noopener">DE Projects</a>]]></description><link>https://krunalgada.github.io/dist/projects/de-projects-list-which-are-outside-of-courses.html</link><guid isPermaLink="false">Projects/DE Projects List which are outside of Courses.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:23:43 GMT</pubDate></item><item><title><![CDATA[Notes Related to Python]]></title><description><![CDATA[ 
+]]></description><link>https://krunalgada.github.io/dist/links/interview-question.html</link><guid isPermaLink="false">Links/Interview Question.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:30:20 GMT</pubDate></item><item><title><![CDATA[Notes Related to Python]]></title><description><![CDATA[ 
  <br><a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> Practice Question : (<a data-href="Example" href="https://krunalgada.github.io/dist/tags/example.html" class="internal-link" target="_self" rel="noopener">Example</a>)<br>
 <a data-tooltip-position="top" aria-label="file:///C:/Users/Krunal/OneDrive/Documents/DataEngineerning/Python%20Practice%20Question.pdf" rel="noopener" class="external-link" href="https://krunalgada.github.io/dist/file://C://Users/Krunal/OneDrive/Documents/DataEngineerning/Python Practice Question.pdf" target="_blank">Python Practice Question.pdf</a><br>
 1.basic exercise for beginners<br>
@@ -195,8 +400,7 @@ AWS <a data-href="S3" href="https://krunalgada.github.io/dist/tags/s3.html" clas
  <br><a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a> <a data-href="GCP" href="https://krunalgada.github.io/dist/tags/gcp.html" class="internal-link" target="_self" rel="noopener">GCP</a>]]></description><link>https://krunalgada.github.io/dist/tags/google-dataflow.html</link><guid isPermaLink="false">Tags/Google Dataflow.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 16:07:46 GMT</pubDate></item><item><title><![CDATA[Kakfa]]></title><description><![CDATA[ 
  <br><a data-href="Streaming" href="https://krunalgada.github.io/dist/tags/streaming.html" class="internal-link" target="_self" rel="noopener">Streaming</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a>]]></description><link>https://krunalgada.github.io/dist/tags/kakfa.html</link><guid isPermaLink="false">Tags/Kakfa.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:19:11 GMT</pubDate></item><item><title><![CDATA[MongoDB]]></title><description><![CDATA[ 
  ]]></description><link>https://krunalgada.github.io/dist/tags/mongodb.html</link><guid isPermaLink="false">Tags/MongoDB.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:23:28 GMT</pubDate></item><item><title><![CDATA[Streaming]]></title><description><![CDATA[ 
- ]]></description><link>https://krunalgada.github.io/dist/tags/streaming.html</link><guid isPermaLink="false">Tags/Streaming.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:19:15 GMT</pubDate></item><item><title><![CDATA[Mindmap-Index]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://krunalgada.github.io/dist/mindmap-index.html</link><guid isPermaLink="false">Mindmap-Index.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 11:52:42 GMT</pubDate></item><item><title><![CDATA[AI And ML]]></title><description><![CDATA[ 
+ ]]></description><link>https://krunalgada.github.io/dist/tags/streaming.html</link><guid isPermaLink="false">Tags/Streaming.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:19:15 GMT</pubDate></item><item><title><![CDATA[AI And ML]]></title><description><![CDATA[ 
  ]]></description><link>https://krunalgada.github.io/dist/tags/ai-and-ml.html</link><guid isPermaLink="false">Tags/AI And ML.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 10:15:58 GMT</pubDate></item><item><title><![CDATA[Azure Synapse Dedicated SQL Pool Cheat sheet]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet" rel="noopener" class="external-link" href="https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/cheat-sheet" target="_blank">Cheat sheet for dedicated SQL pool (formerly SQL DW) - Azure Synapse Analytics | Microsoft Learn</a><br>
 <a data-href="Cheat sheet" href="https://krunalgada.github.io/dist/tags/cheat-sheet.html" class="internal-link" target="_self" rel="noopener">Cheat sheet</a> <a data-href="Azure Synapse" href="https://krunalgada.github.io/dist/tags/azure-synapse.html" class="internal-link" target="_self" rel="noopener">Azure Synapse</a> <a data-href="Datawarehouse" href="https://krunalgada.github.io/dist/tags/datawarehouse.html" class="internal-link" target="_self" rel="noopener">Datawarehouse</a> <br><a data-tooltip-position="top" aria-label="https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-service-capacity-limits" rel="noopener" class="external-link" href="https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-service-capacity-limits" target="_blank">Capacity limits for dedicated SQL pool - Azure Synapse Analytics | Microsoft Learn</a><br>
