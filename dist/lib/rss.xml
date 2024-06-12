@@ -1,4 +1,191 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MemoryDump]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://krunalgada.github.io/dist/</link><image><url>https://krunalgada.github.io/dist/lib/media/favicon.png</url><title>MemoryDump</title><link>https://krunalgada.github.io/dist/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 05:50:59 GMT</lastBuildDate><atom:link href="https://krunalgada.github.io/dist/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 05:50:57 GMT</pubDate><copyright><![CDATA[Krunal]]></copyright><ttl>60</ttl><dc:creator>Krunal</dc:creator><item><title><![CDATA[Data Analytics for Finance A SelfStudy Guide]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MemoryDump]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://krunalgada.github.io/dist/</link><image><url>https://krunalgada.github.io/dist/lib/media/favicon.png</url><title>MemoryDump</title><link>https://krunalgada.github.io/dist/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 12 Jun 2024 03:45:06 GMT</lastBuildDate><atom:link href="https://krunalgada.github.io/dist/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 12 Jun 2024 03:45:04 GMT</pubDate><copyright><![CDATA[Krunal]]></copyright><ttl>60</ttl><dc:creator>Krunal</dc:creator><item><title><![CDATA[Interview Question]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://interviewprep.org/azure-data-factory-interview-questions/" rel="noopener" class="external-link" href="https://interviewprep.org/azure-data-factory-interview-questions/" target="_blank">Top 25 Azure Data Factory Interview Questions and Answers - InterviewPrep</a><br>
+<a data-href="ADF" href="https://krunalgada.github.io/dist/tags/adf.html" class="internal-link" target="_self" rel="noopener">ADF</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a><br><a data-tooltip-position="top" aria-label="https://hackr.io/blog/apache-spark-interview-questions" rel="noopener" class="external-link" href="https://hackr.io/blog/apache-spark-interview-questions" target="_blank">50 Best Apache Spark Interview Questions and Answers in 2024 (hackr.io)</a><br><a data-tooltip-position="top" aria-label="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" rel="noopener" class="external-link" href="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" target="_blank">Spark Questions — Interview Series | by Amit Singh Rathore | Dev Genius</a><br><a data-tooltip-position="top" aria-label="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" rel="noopener" class="external-link" href="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" target="_blank">grouping - Spark difference between reduceByKey vs. groupByKey vs. aggregateByKey vs. combineByKey - Stack Overflow</a><br>
+<a data-href="Spark" href="https://krunalgada.github.io/dist/tags/spark.html" class="internal-link" target="_self" rel="noopener">Spark</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Bigdata" href="https://krunalgada.github.io/dist/tags/bigdata.html" class="internal-link" target="_self" rel="noopener">Bigdata</a><br><a data-tooltip-position="top" aria-label="https://github.com/mmicu/python-for-coding-interviews" rel="noopener" class="external-link" href="https://github.com/mmicu/python-for-coding-interviews" target="_blank">mmicu/python-for-coding-interviews: Python for Coding Interviews (github.com)</a><br>
+<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a><br>Recently asked Interview questions :  <br>industry : Tier 1 Product Based<br>
+Role: Senior Data Engineer ( SDE-3)<br>
+candidate Experience : 10 years  <br>Question 1:  <br>Create a Data Model for a flight booking app, define your entities, schema, facts and dimension, justify your logic behind choosing specific schema  <br>Question 2:  <br>Design data pipeline for a news broadcast app.  <br>consideration :  <br>
+<br>Active users : 1million<br>
+2: news will be push notified  
+<br>User can comment on each news  
+<br>User can like,dislike the news  
+<br>Based on the reactions, customize news type for a specific user group by running the ML model  
+<br>Pipeline should be fast/ near real time  
+<br>Users should also get messages based on their current location ( local news)  
+<br>Question 3:  <br>What is the algorithm behind z-ordering in Databricks, how it helps in searching?]]></description><link>https://krunalgada.github.io/dist/links/interview-question.html</link><guid isPermaLink="false">Links/Interview Question.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Thu, 16 May 2024 12:35:53 GMT</pubDate></item><item><title><![CDATA[SQL Example 1 Row based hierarchy]]></title><description><![CDATA[ 
+ <br>Problem was shared in one of WhatsApp group where as part of question only input table and output table was given. with statement that input table has Row wise Hierarchy. <br><img alt="WhatsApp Image 2024-05-11 at 14.52.19_fe92db07.jpg" src="https://krunalgada.github.io/dist/lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg"><br>To understand more on the problem statement I modified record set for Input and Output<br><img alt="Pasted image 20240511150910.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511150910.png"><br>First I tried to solve using table given , however I could not identify any solution which could do any kind of manipulation without having index or rank column present in original input table.<br>So first assumption I did was to add index column in original input table<br>
+<img alt="Pasted image 20240511151124.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511151124.png"><br>Query I used to create table and sample data <br>create table solvehierarchy
+(
+	rnk int ,
+	lvl1 nvarchar(10),
+	lvl2 nvarchar(10),
+	lvl3 nvarchar(10) ,
+	lvl4 nvarchar(10)
+)
+Copy<br>insert into solvehierarchy
+select 1,'a', null , null , null 
+union all
+select 2,null, 'b', null, null 
+union all
+select 3,null, 'c', null, null 
+union all
+select 4,null, null, 'd', null 
+union all
+select 5,'e', null, null, null 
+union all
+select 6,null, 'f', null , null 
+Copy<br>After analyzing source and target table, My understanding for ask is following <br>
+<br>Row wise hierarchy data is present in table
+<br>Representation of data is wherever parent is present then child will start from next row and other values will be null
+<br>At any given point of time each row will have only 1 not null value 
+<br>Based on above data, level 1 has 2 child 
+
+<br>so idx 1 has only records in column lvl 1
+<br>idx 2 and 3 represent child of idx 1 so value is only present in lvl 2 column and NULL in others
+
+
+<br>for idx 2 there is no child
+<br>for idx 3 there is one child 
+
+<br>as any child is represented in new line, idx 4 will have value in lvl 3 and all other values are NULL
+
+
+<br>and pattern repeats with idx value 5 being lvl 1 and idx value 6 is child of idx 5. 
+<br>solution that is needed to show data in roll up form / collapsed form of parent and child in to reduce row number and skewness. 
+<br>Based on above understanding and different logical breakdown, My solution steps looked like:<br>Step 1 : Fill the null values in each level to get more readable/flat hierarchy.<br>
+<br>As you can see in below image (Highlighted in Red), for lvl1, a is filled in idx value 2,3,4 before we halt as next  lvl1 value is reached.
+<br><img alt="Pasted image 20240511154743.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511154743.png">
+<br>We repeat the same process for value e
+<br>for lvl2 only value c has child, so we will fill one cell with that. 
+<br>Other does not have any child so will be skipped. 
+<br>Step 2 : for each child if cell above current cell is NULL then fill it with child value.<br>
+<br>this step is needed to get data in collapsed hierarchy format.
+<br>I am not sure if there could be any other way we can achieve final output, if anyone can help to avoid this additional step and still get final output that will be great.
+<br>as you can see in image below, in lvl2, b is filled in idx 1 and f is filled in idx 2
+<br>for lvl3 only d is filled in idx 3
+<br><img alt="Pasted image 20240511155550.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511155550.png">
+<br>Step 3 : Removing idx field , and then remove duplicate to get required output<br>
+<br><img alt="Pasted image 20240511155834.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511155834.png">
+<br>Query to get the solution : <br>select distinct lvl1, lvl2, lvl3, lvl4
+from 
+(
+	select 
+		rnk, 
+		lvl1, 
+		case when lvl2 is null then lead(lvl2) over(order by rnk) else lvl2 end as lvl2,
+		case when lvl3 is null then lead(lvl3) over(order by rnk) else lvl3 end as lvl3,
+		lvl4
+	from 
+	(
+		select rnk 
+			, max(l1rnk) over(order by rnk rows unbounded PRECEDING) as lvl1
+			,case when lvl1 is null then max(l2rnk) over(order by rnk rows unbounded PRECEDING) else lvl2 end as lvl2
+			, case when lvl1 is null and lvl2 is null then max(l3rnk) over(order by rnk rows unbounded PRECEDING) else lvl3 end as lvl3
+			, lvl4
+		from solvehierarchy
+		cross apply (values (case when lvl1 is not null then lvl1 end)) as a(l1rnk)
+		cross apply (values (case when lvl2 is not null then lvl2 end)) as b(l2rnk)
+		cross apply (values (case when lvl3 is not null then lvl3 end)) as c(l3rnk)
+	) x
+)x
+Copy<br>Actual output :<br>
+<img alt="Pasted image 20240511160009.png" src="https://krunalgada.github.io/dist/lib/media/pasted-image-20240511160009.png"><br>Special thanks to the articles who helped me in framing the solution :<br>
+<a rel="noopener" class="external-link" href="https://www.itprotoday.com/sql-server/last-non-null-puzzle#close-modal" target="_blank">https://www.itprotoday.com/sql-server/last-non-null-puzzle#close-modal</a><br>
+<a rel="noopener" class="external-link" href="https://learnsql.com/blog/sql-window-functions-rows-clause/" target="_blank">https://learnsql.com/blog/sql-window-functions-rows-clause/</a>]]></description><link>https://krunalgada.github.io/dist/sql/sql-example-1-row-based-hierarchy.html</link><guid isPermaLink="false">SQL/SQL Example 1 Row based hierarchy.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 11 May 2024 10:37:51 GMT</pubDate><enclosure url="https://krunalgada.github.io/dist/lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://krunalgada.github.io/dist/lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Function]]></title><description><![CDATA[ 
+ <br><a data-href="SQL" href="https://krunalgada.github.io/dist/tags/sql.html" class="internal-link" target="_self" rel="noopener">SQL</a> <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a>]]></description><link>https://krunalgada.github.io/dist/tags/function.html</link><guid isPermaLink="false">Tags/Function.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 09:39:20 GMT</pubDate></item><item><title><![CDATA[Lambda Function]]></title><description><![CDATA[ 
+ <br><a data-href="Function" href="https://krunalgada.github.io/dist/tags/function.html" class="internal-link" target="_self" rel="noopener">Function</a>]]></description><link>https://krunalgada.github.io/dist/tags/lambda-function.html</link><guid isPermaLink="false">Tags/Lambda Function.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 09:39:00 GMT</pubDate></item><item><title><![CDATA[Recursion]]></title><description><![CDATA[ 
+ <br><a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> <a data-href="SQL" href="https://krunalgada.github.io/dist/tags/sql.html" class="internal-link" target="_self" rel="noopener">SQL</a>]]></description><link>https://krunalgada.github.io/dist/tags/recursion.html</link><guid isPermaLink="false">Tags/Recursion.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sat, 04 May 2024 09:38:06 GMT</pubDate></item><item><title><![CDATA[Scenario based Interview Question 1]]></title><description><![CDATA[ 
+ <br><a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a><br><br>While running data pipelines in Azure Data Factory, occasional failures are inevitable due to various reasons such as network issues or data inconsistencies. How would you implement error handling and retry mechanisms within <a data-href="ADF" href="https://krunalgada.github.io/dist/tags/adf.html" class="internal-link" target="_self" rel="noopener">ADF</a> to ensure data integrity and pipeline reliability? Provide examples of scenarios where you would apply different retry strategies.<br><br>Implementing error handling and retry mechanisms in Azure Data Factory (ADF) is crucial to maintain data integrity and ensure pipeline reliability. Here are detailed strategies and examples of how to handle errors and retries in ADF:<br><br>
+<br>Activity-Level Error Handling: Each activity in ADF has built-in error handling where you can define what actions to take when an activity fails.
+<br>On-Error Pathways: You can configure on-failure paths in your pipeline to specify what should happen if a particular activity fails. For example, you might send an alert, log the error, or trigger a compensation activity.
+<br>Global Error Handling: ADF allows setting up global parameters or variables to capture and log errors at various points in the pipeline for further analysis.
+<br><br>ADF provides built-in retry capabilities to handle transient failures. Here’s how you can implement retries and where different retry strategies might be appropriate:<br><br>For each activity, ADF allows you to specify:<br>
+<br>Retry Count: Number of times the activity should retry upon failure.
+<br>Retry Interval: Time in seconds between each retry attempt.
+<br><br>
+<br>Fixed Delay Retry Strategy: This strategy is useful when you expect the issue to resolve itself after a fixed amount of time. For instance, if you encounter network throttling or temporary service outages, you might set:    
+
+<br>Retry Count: 3
+<br>Retry Interval: 30 seconds
+
+
+<br>Exponential Backoff Strategy: For scenarios where the system might be under heavy load or experiencing intermittent issues, you can use an exponential backoff strategy. This isn't directly configurable in ADF, but you can simulate it using custom activities or Azure Functions. For instance:    
+
+<br>Retry Count: 5
+<br>Retry Intervals: 1, 2, 4, 8, 16 seconds
+<br>
+
+
+<br>Custom Logic with Azure Functions: Sometimes, you might need more complex retry logic, such as retrying based on the type of error or dynamically adjusting retry intervals. In such cases, you can use an Azure Function to handle retries and incorporate this function within your pipeline.
+<br><br>
+<br>
+Scenario: Temporary Network Issue For a data copy activity that might fail due to transient network issues:
+
+<br>Activity: Copy Data from Azure Blob Storage to Azure SQL Database
+<br>Retry Strategy: Fixed Delay
+
+
+<br>
+Scenario: API Rate Limiting For a web activity calling an external API that might be rate-limited:
+
+<br>Activity: Web Activity calling REST API
+<br>Retry Strategy: Exponential Backoff
+
+You would handle this with a combination of retry settings and possibly an Azure Function to manage backoff logic, as direct exponential backoff isn’t supported out of the box.
+
+<br>
+Scenario: Data Quality Check Failure If a data validation activity fails, you might want to trigger a specific error-handling path:
+
+<br>Activity: Data Quality Check
+<br>On-Failure Path: Notify Team and Log Error
+
+
+<br>    { 
+	    "name": "DataQualityCheck", 
+	    "type": "Validation", 
+	    "onFailure": 
+	    { 
+		    "activities": 
+		    [ 
+			    { 
+				    "name": "NotifyTeam", 
+				    "type": "WebActivity", 
+				    "typeProperties": 
+				    { 
+					    "url": "&lt;webhook_url&gt;", 
+					    "method": "POST", 
+					    "headers": 
+					    { 
+						    "Content-Type": "application/json" 
+						}, 
+						"body": 
+						{ 
+							"error": "@activity('DataQualityCheck').error.message"
+						 } 
+					 } 
+				 }, 
+				 { 
+					 "name": "LogError", 
+					 "type": "StoredProcedure", 
+					 "typeProperties": 
+					 { 
+						 "storedProcedureName": "usp_LogError",
+						 "storedProcedureParameters": 
+						 {
+							 "ErrorMessage":
+							 "@activity('DataQualityCheck').error.message",
+							 "ErrorCode":
+							 "@activity('DataQualityCheck').error.code" 
+						 } 
+					 } 
+				 } 
+			 ] 
+		 } 
+	 }
+Copy<br><br>
+<br>Activity Logs: Monitor the activity run history to analyze failures and performance metrics.
+<br>Alerts and Notifications: Set up alerts in Azure Monitor for specific failure conditions, such as a certain number of retries exceeded or pipeline failures.
+<br><br>Error handling and retry mechanisms are vital for robust data pipelines in Azure Data Factory. By strategically implementing these mechanisms, you can ensure higher reliability and data integrity. Adapt the strategies based on the nature of the activities and the specific scenarios encountered.]]></description><link>https://krunalgada.github.io/dist/scenario-based-interview-question-1.html</link><guid isPermaLink="false">Scenario based Interview Question 1.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Wed, 12 Jun 2024 03:35:15 GMT</pubDate></item><item><title><![CDATA[Data Analytics for Finance A SelfStudy Guide]]></title><description><![CDATA[ 
  <br>(Course Prepared using Chat GPT for one of the Job applied recently)<br>
 (Below is hallucinating result from ChatGPT, most of videos does not exists, once i start reading will add appropriate content and alternatives )<br>
 <br>Module 1: Introduction to Finance Basics
@@ -345,12 +532,7 @@ Basic <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.
 ]]></description><link>https://krunalgada.github.io/dist/courses/linkedin-sql.html</link><guid isPermaLink="false">Courses/Linkedin SQL.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:13:30 GMT</pubDate></item><item><title><![CDATA[How to pick between different Data Modelling Technic]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=ltQgbSs99WU" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=ltQgbSs99WU" target="_blank">How to pick between Kimball, One Big Table, and Relational Modeling as a data engineer (youtube.com)</a><br>
 <a data-href="Datamodelling" href="https://krunalgada.github.io/dist/tags/datamodelling.html" class="internal-link" target="_self" rel="noopener">Datamodelling</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a><br>
-]]></description><link>https://krunalgada.github.io/dist/datamodeling/how-to-pick-between-different-data-modelling-technic.html</link><guid isPermaLink="false">Datamodeling/How to pick between different Data Modelling Technic.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 16:53:06 GMT</pubDate></item><item><title><![CDATA[Interview Question]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://interviewprep.org/azure-data-factory-interview-questions/" rel="noopener" class="external-link" href="https://interviewprep.org/azure-data-factory-interview-questions/" target="_blank">Top 25 Azure Data Factory Interview Questions and Answers - InterviewPrep</a><br>
-<a data-href="ADF" href="https://krunalgada.github.io/dist/tags/adf.html" class="internal-link" target="_self" rel="noopener">ADF</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="ETL" href="https://krunalgada.github.io/dist/tags/etl.html" class="internal-link" target="_self" rel="noopener">ETL</a><br><a data-tooltip-position="top" aria-label="https://hackr.io/blog/apache-spark-interview-questions" rel="noopener" class="external-link" href="https://hackr.io/blog/apache-spark-interview-questions" target="_blank">50 Best Apache Spark Interview Questions and Answers in 2024 (hackr.io)</a><br><a data-tooltip-position="top" aria-label="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" rel="noopener" class="external-link" href="https://blog.devgenius.io/spark-questions-interview-series-c31cedf41652" target="_blank">Spark Questions — Interview Series | by Amit Singh Rathore | Dev Genius</a><br><a data-tooltip-position="top" aria-label="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" rel="noopener" class="external-link" href="https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combi" target="_blank">grouping - Spark difference between reduceByKey vs. groupByKey vs. aggregateByKey vs. combineByKey - Stack Overflow</a><br>
-<a data-href="Spark" href="https://krunalgada.github.io/dist/tags/spark.html" class="internal-link" target="_self" rel="noopener">Spark</a> <a data-href="Interview" href="https://krunalgada.github.io/dist/tags/interview.html" class="internal-link" target="_self" rel="noopener">Interview</a> <a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a> <a data-href="Bigdata" href="https://krunalgada.github.io/dist/tags/bigdata.html" class="internal-link" target="_self" rel="noopener">Bigdata</a><br><a data-tooltip-position="top" aria-label="https://github.com/mmicu/python-for-coding-interviews" rel="noopener" class="external-link" href="https://github.com/mmicu/python-for-coding-interviews" target="_blank">mmicu/python-for-coding-interviews: Python for Coding Interviews (github.com)</a><br>
-<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a><br>
-]]></description><link>https://krunalgada.github.io/dist/links/interview-question.html</link><guid isPermaLink="false">Links/Interview Question.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:30:20 GMT</pubDate></item><item><title><![CDATA[Notes Related to Python]]></title><description><![CDATA[ 
+]]></description><link>https://krunalgada.github.io/dist/datamodeling/how-to-pick-between-different-data-modelling-technic.html</link><guid isPermaLink="false">Datamodeling/How to pick between different Data Modelling Technic.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 16:53:06 GMT</pubDate></item><item><title><![CDATA[Notes Related to Python]]></title><description><![CDATA[ 
  <br><a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> Practice Question : (<a data-href="Example" href="https://krunalgada.github.io/dist/tags/example.html" class="internal-link" target="_self" rel="noopener">Example</a>)<br>
 <a data-tooltip-position="top" aria-label="file:///C:/Users/Krunal/OneDrive/Documents/DataEngineerning/Python%20Practice%20Question.pdf" rel="noopener" class="external-link" href="https://krunalgada.github.io/dist/file://C://Users/Krunal/OneDrive/Documents/DataEngineerning/Python Practice Question.pdf" target="_blank">Python Practice Question.pdf</a><br>
 1.basic exercise for beginners<br>
@@ -374,22 +556,7 @@ Basic <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.
 <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> <a data-href="Dictionary" href="https://krunalgada.github.io/dist/tags/dictionary.html" class="internal-link" target="_self" rel="noopener">Dictionary</a> ]]></description><link>https://krunalgada.github.io/dist/python/notes-related-to-python.html</link><guid isPermaLink="false">Python/Notes Related to Python.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:25:38 GMT</pubDate></item><item><title><![CDATA[Python Cheat Sheets]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="file:///C:/Users/Krunal/OneDrive/Documents/DataEngineerning/Python_Cheat_Sheet_Made_by_Abdul_Malik.pdf" rel="noopener" class="external-link" href="https://krunalgada.github.io/dist/file://C://Users/Krunal/OneDrive/Documents/DataEngineerning/Python_Cheat_Sheet_Made_by_Abdul_Malik.pdf" target="_blank">Python_Cheat_Sheet_Made_by_Abdul_Malik.pdf</a><br>
 <a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> <a data-href="Cheat sheet" href="https://krunalgada.github.io/dist/tags/cheat-sheet.html" class="internal-link" target="_self" rel="noopener">Cheat sheet</a><br><a data-tooltip-position="top" aria-label="https://blog.stackademic.com/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-c267c1394ee8" rel="noopener" class="external-link" href="https://blog.stackademic.com/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-c267c1394ee8" target="_blank">Ultimate Python Cheat Sheet: Practical Python For Everyday Tasks | by Jason Roell | Stackademic</a><br>
-<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> <a data-href="Cheat sheet" href="https://krunalgada.github.io/dist/tags/cheat-sheet.html" class="internal-link" target="_self" rel="noopener">Cheat sheet</a>]]></description><link>https://krunalgada.github.io/dist/python/python-cheat-sheets.html</link><guid isPermaLink="false">Python/Python Cheat Sheets.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:25:49 GMT</pubDate></item><item><title><![CDATA[Links under Extra Curr Tab]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://estuary.dev/" rel="noopener" class="external-link" href="https://estuary.dev/" target="_blank">Real-time ETL | Estuary</a><br>
-<a data-tooltip-position="top" aria-label="https://community.spiceworks.com/t/how-to-get-the-incremental-data-from-the-source-without-a-date-time-stamp-field/906134" rel="noopener" class="external-link" href="https://community.spiceworks.com/t/how-to-get-the-incremental-data-from-the-source-without-a-date-time-stamp-field/906134" target="_blank">How to get the Incremental data from the source without a date time stamp field - Business - Spiceworks Community</a><br><a data-tooltip-position="top" aria-label="https://github.com/yenchiah/project-website-template" rel="noopener" class="external-link" href="https://github.com/yenchiah/project-website-template" target="_blank">yenchiah/project-website-template: A HTML/CSS Template for Building Projects or Personal Websites (github.com)</a><br>
-<a data-tooltip-position="top" aria-label="https://www.howtogeek.com/devops/how-to-set-up-a-simple-free-website-with-github-pages/" rel="noopener" class="external-link" href="https://www.howtogeek.com/devops/how-to-set-up-a-simple-free-website-with-github-pages/" target="_blank">How to Set Up a Simple Free Website With Github Pages (howtogeek.com)</a><br>
-<a data-tooltip-position="top" aria-label="https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github" rel="noopener" class="external-link" href="https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github" target="_blank">Hosting your website on Github (article) | Khan Academy</a><br><a data-tooltip-position="top" aria-label="https://journals.sagepub.com/doi/full/10.3102/0091732X20903304" rel="noopener" class="external-link" href="https://journals.sagepub.com/doi/full/10.3102/0091732X20903304" target="_blank">Mining Big Data in Education: Affordances and Challenges - Christian Fischer, Zachary A. Pardos, Ryan Shaun Baker, Joseph Jay Williams, Padhraic Smyth, Renzhe Yu, Stefan Slater, Rachel Baker, Mark Warschauer, 2020 (sagepub.com)</a><br><a data-tooltip-position="top" aria-label="https://educationaldatamining.org/edm2023/" rel="noopener" class="external-link" href="https://educationaldatamining.org/edm2023/" target="_blank">Home: Educational Data Mining 2024-</a><br>
-<a data-tooltip-position="top" aria-label="https://jedm.educationaldatamining.org/index.php/JEDM" rel="noopener" class="external-link" href="https://jedm.educationaldatamining.org/index.php/JEDM" target="_blank">Journal of Educational Data Mining</a><br>
-<a data-tooltip-position="top" aria-label="https://itsfoss.com/open-source-wysiwyg-editors/" rel="noopener" class="external-link" href="https://itsfoss.com/open-source-wysiwyg-editors/" target="_blank">14 Best Open Source WYSIWYG HTML Editors (itsfoss.com)</a><br>
-<a data-tooltip-position="top" aria-label="https://github.com/summernote/summernote/?tab=readme-ov-file" rel="noopener" class="external-link" href="https://github.com/summernote/summernote/?tab=readme-ov-file" target="_blank">summernote/summernote at itsfoss.com (github.com)</a><br>
-<a data-tooltip-position="top" aria-label="https://summernote.org/deep-dive/" rel="noopener" class="external-link" href="https://summernote.org/deep-dive/" target="_blank">Deep dive (summernote.org)</a><br>
-<a data-tooltip-position="top" aria-label="https://docs.fontawesome.com/web" rel="noopener" class="external-link" href="https://docs.fontawesome.com/web" target="_blank">Use Font Awesome on the Web | Font Awesome Docs</a><br>
-<a data-tooltip-position="top" aria-label="https://app.travelfacets.com/profile/krunalgada/" rel="noopener" class="external-link" href="https://app.travelfacets.com/profile/krunalgada/" target="_blank">krunalgada | TravelFacets</a><br>
-<a data-tooltip-position="top" aria-label="https://vrushalisheth.in/" rel="noopener" class="external-link" href="https://vrushalisheth.in/" target="_blank">Vrushali Sheth</a><br>
-<a data-tooltip-position="top" aria-label="https://sites.google.com/view/vrushali-sheth/home?authuser=0" rel="noopener" class="external-link" href="https://sites.google.com/view/vrushali-sheth/home?authuser=0" target="_blank">Vrushali Sheth (google.com)</a><br>
-<a data-tooltip-position="top" aria-label="https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/" rel="noopener" class="external-link" href="https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/" target="_blank">Let Raspberry Pi spot the aurora borealis for you while you stay warm (and asleep) - Raspberry Pi</a><br><a data-tooltip-position="top" aria-label="https://play.google.com/store/apps/details?id=ph.spacedesk.beta" rel="noopener" class="external-link" href="https://play.google.com/store/apps/details?id=ph.spacedesk.beta" target="_blank">spacedesk - USB Display for PC - Apps on Google Play</a><br>
-<a data-tooltip-position="top" aria-label="https://www.aviationmuseum.eu/Blogvorm/2015/12/19/india/" rel="noopener" class="external-link" href="https://www.aviationmuseum.eu/Blogvorm/2015/12/19/india/" target="_blank">India – AviationMuseum</a><br>
-<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=eULVrTjT11w" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=eULVrTjT11w" target="_blank">How to Publish Obsidian Notes Online For Free(Obsidian Publish Alternative) (youtube.com)</a><br><a data-tooltip-position="top" aria-label="https://getbootstrap.com/docs/5.2/utilities/borders/" rel="noopener" class="external-link" href="https://getbootstrap.com/docs/5.2/utilities/borders/" target="_blank">Borders · Bootstrap v5.2 (getbootstrap.com)</a><br><a data-tooltip-position="top" aria-label="https://github.com/HEmile/juggl" rel="noopener" class="external-link" href="https://github.com/HEmile/juggl" target="_blank">HEmile/juggl: An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. (github.com)</a>]]></description><link>https://krunalgada.github.io/dist/random/links-under-extra-curr-tab.html</link><guid isPermaLink="false">Random/Links under Extra Curr Tab.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 11:56:46 GMT</pubDate></item><item><title><![CDATA[Bigdata]]></title><description><![CDATA[ 
+<a data-href="Python" href="https://krunalgada.github.io/dist/tags/python.html" class="internal-link" target="_self" rel="noopener">Python</a> <a data-href="Cheat sheet" href="https://krunalgada.github.io/dist/tags/cheat-sheet.html" class="internal-link" target="_self" rel="noopener">Cheat sheet</a>]]></description><link>https://krunalgada.github.io/dist/python/python-cheat-sheets.html</link><guid isPermaLink="false">Python/Python Cheat Sheets.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:25:49 GMT</pubDate></item><item><title><![CDATA[Bigdata]]></title><description><![CDATA[ 
  <br><a data-href="Data Engineering" href="https://krunalgada.github.io/dist/tags/data-engineering.html" class="internal-link" target="_self" rel="noopener">Data Engineering</a>]]></description><link>https://krunalgada.github.io/dist/tags/bigdata.html</link><guid isPermaLink="false">Tags/Bigdata.md</guid><dc:creator><![CDATA[Krunal]]></dc:creator><pubDate>Sun, 28 Apr 2024 12:17:45 GMT</pubDate></item><item><title><![CDATA[CAP]]></title><description><![CDATA[ 
  <br>From Wikipedia, the free encyclopedia<br>In&nbsp;<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Theoretical_computer_science" rel="noopener" class="external-link" title="Theoretical computer science" href="https://en.wikipedia.org/wiki/Theoretical_computer_science" target="_blank">theoretical computer science</a>, the&nbsp;CAP theorem, also named&nbsp;Brewer's theorem&nbsp;after computer scientist&nbsp;<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)" rel="noopener" class="external-link" title="Eric Brewer (scientist)" href="https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)" target="_blank">Eric Brewer</a>, states that any&nbsp;<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Distributed_data_store" rel="noopener" class="external-link" title="Distributed data store" href="https://en.wikipedia.org/wiki/Distributed_data_store" target="_blank">distributed data store</a>&nbsp;can provide only&nbsp;<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Trilemma" rel="noopener" class="external-link" title="Trilemma" href="https://en.wikipedia.org/wiki/Trilemma" target="_blank">two of the following three</a>&nbsp;guarantees:<a data-href="1" href="https://krunalgada.github.io/dist/1" class="internal-link" target="_self" rel="noopener">1</a>(<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/CAP_theorem#cite_note-Gilbert_Lynch-1)%5B%5B2%5D%5D(https://en.wikipedia.org/wiki/CAP_theorem#cite_note-2)%5B%5B3%5D%5D(https://en.wikipedia.org/wiki/CAP_theorem#cite_note-3" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/CAP_theorem#cite_note-Gilbert_Lynch-1)%5B%5B2%5D%5D(https://en.wikipedia.org/wiki/CAP_theorem#cite_note-2)%5B%5B3%5D%5D(https://en.wikipedia.org/wiki/CAP_theorem#cite_note-3" target="_blank">https://en.wikipedia.org/wiki/CAP_theorem#cite_note-Gilbert_Lynch-1)[[2]](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-2)[[3]](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-3</a>)<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Consistency_model" rel="noopener" class="external-link" title="Consistency model" href="https://en.wikipedia.org/wiki/Consistency_model" target="_blank">Consistency</a><br>Every read receives the most recent write or an error.<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Availability" rel="noopener" class="external-link" title="Availability" href="https://en.wikipedia.org/wiki/Availability" target="_blank">Availability</a><br>Every request receives a (non-error) response, without the guarantee that it contains the most recent write.<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Network_partitioning" rel="noopener" class="external-link" title="Network partitioning" href="https://en.wikipedia.org/wiki/Network_partitioning" target="_blank">Partition tolerance</a><br>The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.<br>When a&nbsp;<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Network_partition" rel="noopener" class="external-link" title="Network partition" href="https://en.wikipedia.org/wiki/Network_partition" target="_blank">network partition</a>&nbsp;failure happens, it must be decided whether to do one of the following:<br>
 <br>cancel the operation and thus decrease the availability but ensure consistency

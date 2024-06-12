@@ -1,8 +1,8 @@
 {
   "vaultName": "MemoryDump",
-  "lastExport": 1714801857988,
+  "lastExport": 1718163904617,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -39,9 +39,9 @@
     "Python/Notes Related to Python.md",
     "Python/Python Cheat Sheets.md",
     "Python/Web Scrapping using Python.md",
-    "Random/Links under Extra Curr Tab.md",
     "Spark/Apache Spark Learning.md",
     "SQL/About SQL Indexes.md",
+    "SQL/SQL Example 1 Row based hierarchy.md",
     "Tags/ADF.md",
     "Tags/ADLS.md",
     "Tags/AI And ML.md",
@@ -85,6 +85,7 @@
     "Tags/ETL.md",
     "Tags/Example.md",
     "Tags/Firebase.md",
+    "Tags/Function.md",
     "Tags/GCP.md",
     "Tags/Git.md",
     "Tags/Google Dataflow.md",
@@ -94,6 +95,7 @@
     "Tags/Inheritance.md",
     "Tags/Interview.md",
     "Tags/Kakfa.md",
+    "Tags/Lambda Function.md",
     "Tags/Learning.md",
     "Tags/MongoDB.md",
     "Tags/No-SQL database.md",
@@ -106,6 +108,7 @@
     "Tags/Powershell.md",
     "Tags/Python.md",
     "Tags/Random thoughts.md",
+    "Tags/Recursion.md",
     "Tags/Requirements.md",
     "Tags/S3.md",
     "Tags/Scala.md",
@@ -118,6 +121,21 @@
     "Tags/Web API.md",
     "Templates/notebook_index_template.md",
     "Mindmap-Index.md",
+    "Pasted image 20240511150910.png",
+    "Pasted image 20240511151124.png",
+    "Pasted image 20240511154743.png",
+    "Pasted image 20240511155550.png",
+    "Pasted image 20240511155834.png",
+    "Pasted image 20240511160009.png",
+    "Scenario based Interview Question 1.md",
+    "WhatsApp Image 2024-05-11 at 14.52.19_fe92db07.jpg",
+    "lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg",
+    "lib/media/pasted-image-20240511150910.png",
+    "lib/media/pasted-image-20240511151124.png",
+    "lib/media/pasted-image-20240511154743.png",
+    "lib/media/pasted-image-20240511155550.png",
+    "lib/media/pasted-image-20240511155834.png",
+    "lib/media/pasted-image-20240511160009.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -133,6 +151,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -144,6 +163,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
@@ -163,6 +183,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -174,174 +195,175 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1714801857988,
-      "sourceSize": 48181,
+      "modifiedTime": 1718163904617,
+      "sourceSize": 51573,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1714801857988,
-      "sourceSize": 8491,
+      "modifiedTime": 1718163904617,
+      "sourceSize": 8828,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1714801857988,
-      "sourceSize": 157722,
+      "modifiedTime": 1718163904617,
+      "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1714801857988,
+      "modifiedTime": 1718163904617,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -425,8 +447,8 @@
       "dependencies": []
     },
     "Links/Interview Question.md": {
-      "modifiedTime": 1714323498348,
-      "sourceSize": 930,
+      "modifiedTime": 1718163904617,
+      "sourceSize": 1808,
       "exportedPath": "links/interview-question.html",
       "dependencies": []
     },
@@ -476,12 +498,6 @@
       "modifiedTime": 1714296149112,
       "sourceSize": 161,
       "exportedPath": "python/web-scrapping-using-python.html",
-      "dependencies": []
-    },
-    "Random/Links under Extra Curr Tab.md": {
-      "modifiedTime": 1714323498348,
-      "sourceSize": 2744,
-      "exportedPath": "random/links-under-extra-curr-tab.html",
       "dependencies": []
     },
     "Spark/Apache Spark Learning.md": {
@@ -1016,6 +1032,140 @@
       "modifiedTime": 1714801857988,
       "sourceSize": 22,
       "exportedPath": "templates/notebook_index_template.html",
+      "dependencies": []
+    },
+    "SQL/SQL Example 1 Row based hierarchy.md": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 4331,
+      "exportedPath": "sql/sql-example-1-row-based-hierarchy.html",
+      "dependencies": [
+        "lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg",
+        "lib/media/pasted-image-20240511150910.png",
+        "lib/media/pasted-image-20240511151124.png",
+        "lib/media/pasted-image-20240511154743.png",
+        "lib/media/pasted-image-20240511155550.png",
+        "lib/media/pasted-image-20240511155834.png",
+        "lib/media/pasted-image-20240511160009.png"
+      ]
+    },
+    "Tags/Function.md": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 22,
+      "exportedPath": "tags/function.html",
+      "dependencies": []
+    },
+    "Tags/Lambda Function.md": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 15,
+      "exportedPath": "tags/lambda-function.html",
+      "dependencies": []
+    },
+    "Tags/Recursion.md": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 20,
+      "exportedPath": "tags/recursion.html",
+      "dependencies": []
+    },
+    "Pasted image 20240511150910.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 10582,
+      "exportedPath": "pasted-image-20240511150910.png",
+      "dependencies": []
+    },
+    "Pasted image 20240511151124.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 7486,
+      "exportedPath": "pasted-image-20240511151124.png",
+      "dependencies": []
+    },
+    "Pasted image 20240511154743.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 9964,
+      "exportedPath": "pasted-image-20240511154743.png",
+      "dependencies": []
+    },
+    "Pasted image 20240511155550.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 9231,
+      "exportedPath": "pasted-image-20240511155550.png",
+      "dependencies": []
+    },
+    "Pasted image 20240511155834.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 5244,
+      "exportedPath": "pasted-image-20240511155834.png",
+      "dependencies": []
+    },
+    "Pasted image 20240511160009.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 7933,
+      "exportedPath": "pasted-image-20240511160009.png",
+      "dependencies": []
+    },
+    "Scenario based Interview Question 1.md": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 5103,
+      "exportedPath": "scenario-based-interview-question-1.html",
+      "dependencies": []
+    },
+    "WhatsApp Image 2024-05-11 at 14.52.19_fe92db07.jpg": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 140233,
+      "exportedPath": "whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 140233,
+      "exportedPath": "lib/media/whatsapp-image-2024-05-11-at-14.52.19_fe92db07.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511150910.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 10582,
+      "exportedPath": "lib/media/pasted-image-20240511150910.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511151124.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 7486,
+      "exportedPath": "lib/media/pasted-image-20240511151124.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511154743.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 9964,
+      "exportedPath": "lib/media/pasted-image-20240511154743.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511155550.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 9231,
+      "exportedPath": "lib/media/pasted-image-20240511155550.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511155834.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 5244,
+      "exportedPath": "lib/media/pasted-image-20240511155834.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240511160009.png": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 7933,
+      "exportedPath": "lib/media/pasted-image-20240511160009.png",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1718163904617,
+      "sourceSize": 2450,
+      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
