@@ -6,7 +6,7 @@ Plain static HTML, no build step.
 
 - `index.html` — home page (edit this to update the profile/CV content)
 - `assets/` — images and favicon
-- `dist/` — knowledge base and articles (Obsidian export); old template pages here now redirect to `/`
+- `dist/` — blog page (`dist/blog.html`) and its styles; old template pages here redirect to `/`
 - `.nojekyll` — tells GitHub Pages to serve files as-is
 - `vercel.json` — tells Vercel to skip install/build and serve the repo root
 
